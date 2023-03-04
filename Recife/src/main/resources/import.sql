@@ -1,0 +1,1 @@
+INSERT INTO pessoas (nome, idade, fila) VALUES ("José", 30, 10);
